@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+1. I know how to create new tags: <h1>,<img>,<figure>,<li>,<button>. Knowing how to set the local path to the image.
+2. Most of them are easy, so far so good.
+3. Some concept learning, like relative path, first I didn't read the notes carefully, when I do the quiz, I set the image source wrong.
+4. Pretty good. Like I mentioned in question4. I went through the problem solving steps. review the notes that I missed, then I easily find the way out.
